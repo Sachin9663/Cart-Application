@@ -1,0 +1,9 @@
+.store-card{
+    width: 15%;
+}
+
+.store{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
